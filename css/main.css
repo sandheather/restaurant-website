@@ -49,7 +49,17 @@ nav li{
 	text-align: center;
 }
 
-.banner{
+.nav a {
+  display: block;
+  padding: 0.4em 0 0.5em;
 
+}
+
+.nav a:hover {
+  background-color: #b8fffb;
+}
+
+.banner{
+	padding: calc(1.5em + 50vw) 0 0;
 	background: url("../images/banner.jpg") center center / cover no-repeat;
 }
