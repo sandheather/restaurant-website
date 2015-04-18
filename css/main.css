@@ -48,3 +48,8 @@ nav li{
 	width:30.5%;
 	text-align: center;
 }
+
+.banner{
+
+	background: url("../images/banner.jpg") center center / cover no-repeat;
+}
