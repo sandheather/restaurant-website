@@ -24,9 +24,9 @@ h1{
 .masthead{
 	padding-top: 15px;
 	background-image: url("../images/wheat-logo-left.svg"), url("../images/wheat-logo-right.svg");
-	background-size: 80px auto, 80px auto;
+	background-size: 16% auto, 16% auto;
 	background-repeat: no-repeat, no-repeat;
-	background-position: left 6px top 10px, right 6px top 10px;
+	background-position: left 3px top 20px, right 3px top 20px;
 }
 
 nav{
