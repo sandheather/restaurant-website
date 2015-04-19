@@ -63,3 +63,16 @@ nav li{
 	padding: calc(1.5em + 15vw) 0 0;
 	background: url("../images/banner.jpg") center center / cover no-repeat;
 }
+
+.intro {
+  margin: 0;
+  padding: 3em 10px 0.5em;
+
+  background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.6));
+
+  color: #fff;
+  font-size: 26pt;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+}
+
