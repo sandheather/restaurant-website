@@ -133,3 +133,21 @@ padding:18px;
 margin:0;
 }
 
+.photo{
+	margin: 0;
+	background-color: #80edea;
+}
+
+.right{
+	width:48%;
+	border-radius: 18px;
+	float: right;
+	padding:10px 10px 5px 1.8px;
+}
+
+.left{
+	width:48%;
+	border-radius: 18px;
+	float:left;
+	padding:10px 1.8px 5px 10px;
+}
