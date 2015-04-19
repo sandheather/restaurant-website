@@ -123,3 +123,13 @@ h3{
 	margin: 0;
 }
 
+ul{
+font-family: 'Lora', serif;
+background-color: none;
+font-size: 10.5pt;
+list-style: none;
+text-align: center;
+padding:18px;
+margin:0;
+}
+
