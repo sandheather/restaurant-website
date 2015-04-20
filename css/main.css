@@ -179,4 +179,17 @@ footer a{
 	text-decoration: none;
 	color:#fff;
 }
+
+footer{
+	background-color: #231f20;
+	padding: 25px;
+}
+
+.facebook{
+	width:15%;
+	float: left;
+}
+
+.map{
+	padding: 15px;
 }
