@@ -162,6 +162,22 @@ ul{
 	float:left;
 	padding-top: 10px;
 }
+
+footer p{
+	padding: 20px;
+	padding-right: 50px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	color:#fff;
+	font-family: 'Great Vibes', cursive;
+	font-size: 20.5px;
+	margin: 0;
+	float:right;
+}
+
+footer a{
+	text-decoration: none;
+	color:#fff;
 }
 iframe{
 	frameborder="0"
