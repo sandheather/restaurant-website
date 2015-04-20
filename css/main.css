@@ -72,15 +72,15 @@ a{
 }
 
 .intro {
-  margin: 0;
-  padding: 3em 10px 0.5em;
+	margin: 0;
+	padding: 3em 10px 0.5em;
 
-  background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.6));
+	background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.6));
 
-  color: #fff;
-  font-size: 26pt;
-  font-family: 'Great Vibes', cursive;
-  text-align: center;
+	color: #fff;
+	font-size: 26pt;
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
 }
 
 .logo{
