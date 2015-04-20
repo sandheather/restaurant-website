@@ -162,15 +162,13 @@ ul{
 }
 
 footer p{
-	padding: 20px;
+	padding-top: 5px;
 	padding-right: 50px;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	color:#fff;
 	font-family: 'Great Vibes', cursive;
 	font-size: 20.5px;
 	margin: 0;
-	float:right;
+	float: right;
+	text-decoration: none;
 }
 
 footer a{
