@@ -31,7 +31,6 @@ h1{
 
 nav{
 	background-color: #80edea;
-	font-size: 18pt;
 }
 
 nav ul{
@@ -42,21 +41,29 @@ nav ul{
 
 nav li{
 	margin:0;
-	padding:10px;
+	padding:0px;
 	display: inline-block;
 	text-decoration: none;
-	width:30.5%;
+	width:32.5%;
 	text-align: center;
+	font-size: 16pt;
+	color:#000;
 }
 
 .nav a {
-  display: block;
-  padding: 0.4em 0 0.5em;
-
+	display: block;
+	text-decoration: none;
 }
 
 .nav a:hover {
-  background-color: #b8fffb;
+	background-color: #b8fffb;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+	display: block;
+	padding: 0.4em 0 0.5em;
 }
 
 .banner{
