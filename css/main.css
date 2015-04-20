@@ -131,13 +131,12 @@ h3{
 }
 
 ul{
-font-family: 'Lora', serif;
-background-color: none;
-font-size: 10.5pt;
-list-style: none;
-text-align: center;
-padding:18px;
-margin:0;
+	font-family: 'Lora', serif;
+	font-size: 10.5pt;
+	list-style: none;
+	text-align: center;
+	padding:18px;
+	margin:0;
 }
 
 .photo{
