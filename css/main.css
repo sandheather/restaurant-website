@@ -179,7 +179,11 @@ footer p{
 
 footer{
 	background-color: #231f20;
-	padding: 25px;
+	padding: 10px;
+}
+
+footer a{
+	color: #fff;
 }
 
 .facebook{
