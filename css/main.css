@@ -1,11 +1,11 @@
 html {
-  box-sizing: border-box;
-  font-family: 'Great Vibes', cursive;
-  font-family: 'Lora', serif;
+	box-sizing: border-box;
+	font-family: 'Great Vibes', cursive;
+	font-family: 'Lora', serif;
 }
 
 *, *::before, *::after {
-  box-sizing: inherit;
+	box-sizing: inherit;
 }
 
 body{
