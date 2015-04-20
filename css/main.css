@@ -140,22 +140,28 @@ ul{
 }
 
 .photo{
-	margin: 0;
 	background-color: #80edea;
+	display: block;
+	overflow: hidden;
+	margin: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
 }
 
 .right{
 	width:48%;
 	border-radius: 18px;
 	float: right;
-	padding:10px 10px 5px 1.8px;
+	padding-top: 10px;
 }
 
 .left{
 	width:48%;
 	border-radius: 18px;
 	float:left;
-	padding:10px 1.8px 5px 10px;
+	padding-top: 10px;
+}
 }
 iframe{
 	frameborder="0"
