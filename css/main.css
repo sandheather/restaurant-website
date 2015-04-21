@@ -65,7 +65,6 @@ a{
 }
 
 .banner{
-	padding: calc(1.5em + 15vw) 0 0;
 	background: url("../images/banner.jpg") center center / cover no-repeat;
 }
 
